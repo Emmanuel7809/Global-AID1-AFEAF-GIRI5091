@@ -7,7 +7,6 @@ Tecnologías de la Información y Comunicación Área Redes Inteligentes y Ciber
 <h3 style="text-align: center;">Automatización de Infraestructura Digital I</h3>
 <h3 style="text-align: center;">Global</h3>
 
-<h4 style="text-align: center;">Unidad 1. Entornos de desarrollo en la automatización de redes</h4>
 
 <br>**Tema:** Instrumento de evaluación Global
 <br>**Docente:** Eric Domenzain Morales
